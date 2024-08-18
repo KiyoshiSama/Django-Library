@@ -1,0 +1,19 @@
+django >4.2,<4.3
+python-decouple
+djangorestframework
+pytest
+pytest-django
+djangorestframework-simplejwt
+drf-spectacular
+django-environ
+faker
+django-filter
+coverage
+django-mail-templated
+celery
+redis
+django-celery-beat
+django-redis
+psycopg2-binary
+gunicorn
+pika
